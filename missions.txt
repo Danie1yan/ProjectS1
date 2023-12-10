@@ -1,0 +1,6 @@
+7800,Sabotage,Sector Gaza,Raptor12
+3500,Diversion,Sector Gaza,Voyager07
+1200,Surveillance,Sector Gaza,Predator23
+6700,Sabotage,Black Sea,Raptor13
+2800,Diversion,Black Sea,Voyager08
+900,Surveillance,Black Sea,Predator24
